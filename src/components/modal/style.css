@@ -1,0 +1,99 @@
+.modalgroup{
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+    background: #02182b75;
+    z-index: 1;
+}
+
+.modal{
+    width: 75rem;
+    height: 25rem;
+    background: #1f242775;
+    backdrop-filter: blur(5px);
+    margin: 10rem auto;
+    z-index: 1;
+}
+
+.modalinfo{
+    display: flex;
+    color: white;
+}
+
+.imagehero{
+    width: 35rem;
+    height: 25rem;
+}
+
+.imagehero img{
+    width: 23.8rem;
+    height: 25rem;
+}
+
+.heroinfo{
+    width: 100%;
+}
+
+.heroinfo h2{
+    font-weight: normal;
+    text-align: center;
+}
+
+.heroinfo ul{
+    list-style-type: none;
+}
+
+.containerhero{
+    height: 20.7rem;
+    margin-top: 1rem;
+}
+
+.infowidth{
+    margin-left: 2.5rem;
+
+}
+
+.closemodal{
+    width: 100%;
+    text-align: center;
+}
+
+.closemodal button{
+    width: 9rem;
+    padding: 0.2rem;
+    cursor: pointer;
+    outline: 0;
+    border: 0;
+    background: #2874c0fd;
+    border-radius: 0.5rem;
+    color: white;
+}
+
+.closemodal button:hover{
+    background: #2265a8fd;
+}
+
+@media (max-width: 909px){
+    .modal{
+        width: 60rem;
+    }
+}
+
+@media (max-width: 857px){
+    .modal{
+        width: 50rem;
+    }
+}
+
+@media (max-width: 504px){
+    .modalinfo{
+        display: block;
+    }
+    .imagehero {
+        width: 50rem;
+        text-align: center;
+    }
+}
+
+
+
