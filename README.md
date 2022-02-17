@@ -1,5 +1,5 @@
 ## ✏ Sobre o projeto
-Com a utilização do **React** e uma **API**, foi desenvolvido uma lista de pokemons onde o usuário pode fazer uma busca usando o nome do pokemon ou o registro nacional, conforme mostrado no **GIF** abaixo.
+Esse projeto foi feito como um desafio para testar minhas capacidades com o **React**, utilizando a API **SuperHero** para criar todos os cards e mostrar informações dos personagens atráves de um modal.
 
 ## 🎨 Layout
 ![Animação](https://user-images.githubusercontent.com/61718764/154575502-c36aa643-92c5-4192-93cb-043645ad8879.gif)
@@ -7,7 +7,6 @@ Com a utilização do **React** e uma **API**, foi desenvolvido uma lista de pok
 
 ## 🛠 Tecnologias
 - [React.js](https://pt-br.reactjs.org/)
-- [React Bootstrap](https://react-bootstrap.github.io/)
 
 ## 🚀 Como executar o projeto
 ### Requisitos
