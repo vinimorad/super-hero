@@ -1,5 +1,5 @@
 ## ✏ Sobre o projeto
-Esse projeto foi feito como um desafio para testar minhas capacidades com o **React**, utilizando a API **SuperHero** para criar todos os cards e mostrar informações dos personagens usando um modal.
+Esse projeto foi feito como um desafio para testar minhas capacidades com o **React**, utilizando a API **SuperHero** para criar todos os cards e mostrar informações dos personagens usando um modal
 
 ## 🎨 Layout
 ![Animação](https://user-images.githubusercontent.com/61718764/154575502-c36aa643-92c5-4192-93cb-043645ad8879.gif)
