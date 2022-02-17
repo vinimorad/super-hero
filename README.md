@@ -17,7 +17,7 @@ Com a utilização do **React** e uma **API**, foi desenvolvido uma lista de pok
 ### 🎲 Rodando o Front End
 ```bash
 # Clone este repositório
-$ git clone https://github.com/vinimovich/pokemon-finder.git
+$ git clone https://github.com/vinimovich/superhero.git
 
 # Instale as dependências
 $ npm install
