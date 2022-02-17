@@ -37,7 +37,6 @@ export function HeroList() {
                 onChange={(e) => setValue(e.target.value)}
                 autoFocus
               />
-              {/* <button>Pesquisar</button> */}
             </div>
           </div>
           <div className="cardgroup">
