@@ -3,7 +3,6 @@ import "./style.css";
 
 export function Modal({ setModal, hero }) {
 
-  console.log(hero)
   const handleCloseModal = () => {
     setModal(false);
   };
