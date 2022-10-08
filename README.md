@@ -17,7 +17,7 @@ Esse projeto foi feito como um desafio para testar minhas capacidades com o **Re
 ### 🎲 Rodando o Front End
 ```bash
 # Clone este repositório
-$ git clone https://github.com/vinimovich/superhero.git
+$ git clone https://github.com/vinimovich/super-hero.git
 
 # Instale as dependências
 $ npm install
